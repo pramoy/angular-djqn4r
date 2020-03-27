@@ -41,7 +41,8 @@ export class AppComponent  implements OnInit {
       chart: {
         // type: 'heatmap',
         type: 'gantt',
-        spacingLeft: 1
+        spacingLeft: 1,
+        
       },
 
       title: {
